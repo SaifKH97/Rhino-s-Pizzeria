@@ -8,13 +8,21 @@ A new Flutter project.
 ## Getting Started
 
 /////////////////////////////////////////
+
 //admin:
+
 //email: admin@email.com
+
 //password: 123456
+
 /////////////////////////////////////////
+
 //user:
+
 //email: user@email.com
+
 //password: 123456
+
 /////////////////////////////////////////
 
 This project is a starting point for a Flutter application.
